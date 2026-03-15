@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Jonas Neves
 
-I’m a Data Science student with hands-on experience in Data Engineering, Automation, and Operational Analytics applied to logistics environments.
+I’m a Data Engineering student with hands-on experience in Automation and Operational Analytics applied to logistics environments.
 
 My professional journey started on the road as a truck driver and later as a driver instructor. That operational background gave me a deep understanding of real-world logistics challenges. 
 Today, I build data-driven systems to solve those challenges from a technical perspective.
